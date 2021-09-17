@@ -1,3 +1,6 @@
 # local binaries
 index
 index.exe
+
+# OSX
+.DS_Store
